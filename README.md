@@ -2,7 +2,7 @@
 Data science portfolio of Yulin Wang
 
 
-# Project 1: COVID-19 Data Tracking Platform
+# [Project 1: COVID-19 Data Tracking Platform](https://github.com/dlwyl1997/Covid-19_Data_Analysis)
 The development of a COVID-19 data tracking platform for public health safety
 
 
